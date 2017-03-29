@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<class>
+   <paddle>
+      <width>100</width>
+      <height>5</height>
+   </paddle>
+   <ball>
+      <amount>1</amount>
+      <size>20</size>
+   </ball>
+   <brickHorizontal>
+      <width>100</width>
+      <height>40</height>
+      <health>1</health>
+   </brickHorizontal>
+
+   <brickVertical>
+      <width>40</width>
+      <height>115</height>
+      <health>1</health>
+   </brickVertical>
+   <horizontalBricks>
+      <startingXCoordinate>50</startingXCoordinate>
+      <startingYCoordinate>100</startingYCoordinate>
+      <row1>000010000</row1>
+      <row2>000111000</row2>
+      <row3>001111100</row3>
+      <row4>010101010</row4>
+      <row5>110101011</row5>
+      <row6>111111111</row6>
+      <row7>110101011</row7>
+      <row8>010101010</row8>
+      <row9>001111100</row9>
+      <row10>000111000</row10>
+      <row11>000010000</row11>
+      <row12>0</row12>
+      <row13>0</row13>
+      <row14>0</row14>
+      <row15>0</row15>
+      <row16>0</row16>
+   </horizontalBricks>
+
+   <verticalBricks>
+      <startingXCoordinate>450</startingXCoordinate>
+      <startingYCoordinate>50</startingYCoordinate>
+      <row1>0</row1>
+      <row2>0</row2>
+      <row3>0</row3>
+      <row4>0</row4>
+      <row5>0</row5>
+      <!-- <row6>11100000000000000000111</row6>
+      <row7>11100000000000000000111</row7>
+      <row8>11100000000000000000111</row8> -->
+      <!-- <row9>111</row9>
+      <row10>111</row10>
+      <row11>111</row11>
+      <row12>111</row12>
+      <row13>111</row13>
+      <row14>111</row14>
+      <row15>111</row15>
+      <row16>111</row16> -->
+   </verticalBricks>
+
+
+</class>
